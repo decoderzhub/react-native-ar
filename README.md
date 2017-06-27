@@ -1,8 +1,8 @@
-# DonaldSays (branched from setcoins-native)
-DonaldSays - an "augmented reality" parody game intended to help combat racism and prevent the apocalypse
+# react-native-ar (branched from DonaldSays)
+react-native-ar - is an "augmented reality" package where developers can create their own AR environment on iOS and Android devices
 
 ## Setup
-1. `git clone https://github.com/otech47/react-native-donaldsays` and `cd` into the directory
+1. `git clone https://github.com/dooleydragon/react-native-ar` and `cd` into the directory
 2. `npm install`
 3. Read through https://facebook.github.io/react-native/docs/getting-started.html to install the React Native CLI for your OS
 4. `react-native start`
@@ -17,4 +17,4 @@ Please create an issue if you run into problems so we can document them and add 
 
 Thanks!
 
-Feel free to email: oscar@setdev.io
+Feel free to email: Darin.J.Manley@arvibe.com
